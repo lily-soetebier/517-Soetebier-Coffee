@@ -4,7 +4,7 @@
 
 ## The Beans
 
-### Types of Beans
+### Type
 #### Arabica
 #### Robusta
 
@@ -12,6 +12,8 @@
 #### South America
 #### Africa
 #### Asia
+
+### Roast Level
 
 
 ## The Brewing
