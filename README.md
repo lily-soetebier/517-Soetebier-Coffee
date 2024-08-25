@@ -1,5 +1,5 @@
 # 517-Soetebier-Coffee
- Exercise-Practice Git Workflow Repo 1
+ _Exercise-Practice Git Workflow Repo 1_
 
 While most think of coffee as a bitter source of caffeine that helps to get the day started, there is a vast range of complex flavors and caffine levels avaible within the humble bean. Both the brewing method and the bean itself contribute to the final flavor in a variety of ways.
 
