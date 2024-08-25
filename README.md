@@ -10,14 +10,14 @@ When selecting which bean to buy from your local shop there are three elements t
 While they are both memebers of the _Rubiacea_ family, there are two distinct strains of coffee that are avaiable for purchase today: arabica and robusta.
 
 #### Arabica
-_Coffea arabica_, or simply  Arabica as it is often labeled on the bag, is what most coffee drinkers are familiar with. This is because it is the **dominant cultivar** making up 60% of the world's coffee production. Arabica tends to have a sweet, floral taste with acidic notes of citrus fruits on the back end. Often times this acid can be percieved as bitterness by the drinker.  
+[_Coffea arabica_][arabica-coffee], or simply  Arabica as it is often labeled on the bag, is what most coffee drinkers are familiar with. This is because it is the **dominant cultivar** making up 60% of the world's coffee production. Arabica tends to have a sweet, floral taste with acidic notes of citrus fruits on the back end. Often times this acid can be percieved as bitterness by the drinker.  
 
 #### Robusta
-_Coffea canephora_, or Robusta, while less popuar is not less delicious. Despite its rarity in the current coffee market, Robusta coffee is much cheaper to produce that Arabica as it has a much higher yield rate. Robusta has been used traditionally for Italian style esspresso and Vietnamese drip coffee. Its flavor is full-bodied and earthy. Due to its pyrazine content, the final brew is considered to be much more bitter than it's counterpart. 
+[_Coffea canephora_][robusta-coffee], or Robusta, while less popuar is not less delicious. Despite its rarity in the current coffee market, Robusta coffee is much cheaper to produce that Arabica as it has a much higher yield rate. Robusta has been used traditionally for Italian style esspresso and Vietnamese drip coffee. Its flavor is full-bodied and earthy. Due to its pyrazine content, the final brew is considered to be much more bitter than it's counterpart. 
 
 
 ### Roast Level
-An major determining factor of coffee's final flavor is how long the beans are roasted for, or the roast level. While there is a range of times and temperatures at which coffee is roasted at most beans can be sorted into three categories: light, medium, and dark. 
+An major determining factor of coffee's final flavor is how long the beans are roasted for, or the [roast level][roast-levels]. While there is a range of times and temperatures at which coffee is roasted at most beans can be sorted into three categories: light, medium, and dark. 
 
 #### Light
 Light roasts are newly popularized outside of specialty coffee circles, thus they are often described as tasting "unusual" with strong fruity notes and ocassionally some grain or ceral like aftertastes. Despite it's softer flavors, light roast still packs a punch. In fact **light roasts contian more caffeine** than any other roast.
@@ -27,14 +27,16 @@ Light roasts are newly popularized outside of specialty coffee circles, thus the
 
 #### Dark Roasts
 Since they are cooked the longest, dark roasts have the least fruity flavors, tending to taste more bitter with notes of dark chocolate. Oftentimes the darkest roasts will have notes of char and smoke. Despite their intese flavors, **dark roasts contain the least amount of caffeine**.
+
+
 ### Region
-While the coffee family originated in Africa, today beans are grown all around the southern hemisphere. The individual climates and soil conditions of these beans widen the range of flavors even more than the roast level. South American coffees tend to have more nutty, chocolately flavors to start, which are often brought out in the roasting process as discussed before. African coffees tend to be much more floral and bright. Asian coffees tend to have smokier notes of warm spices. 
+While the coffee family originated in Africa, today beans are grown all around the world, but do especially well in the southern hemisphere. The individual climates and soil conditions of these regions widen the range of flavors even more than the roast level. South American coffees tend to have more nutty, chocolately flavors to start, which are often brought out in the roasting process as discussed before. African coffees tend to be much more floral and bright. Asian coffees tend to have smokier notes of warm spices. For an overview of all the different regions, [click here][regions-overview].
 
 
 
 
 ## The Brewing
-The method in which a cup of coffee is brewed can determine the flavor, but more importantly it impacts the final texture and mouth feel, AKA body, of the drink.
+The method in which a cup of coffee is brewed can determine the flavor, but more importantly it impacts the final texture and mouth feel, AKA body, of the drink. There are three main categories of brewing methods, but for more information on specific equiment [click here][brewing-methods].
 ### Drip
 Drip brewing is what is known as a low concentration style of brewing. That is to say that the proportion of coffee to water is much smaller than other methods. When brewing drip coffee, fine ground beans are placed into a filter and hot water is slowly poured over the top of these grounds and allowed to "drip" thorugh them. 
 
@@ -49,3 +51,12 @@ _Note: The french press is my preffered brewing method when drinking hot coffee 
 
 ### Pressure
 Pressure methods, as the name suggests, rely on high pressure to force water through tightly packed coffee grounds. This is what is used to create espresso style coffee drinks. In addition to professional quality machines, mokka pots can be used to create this style of coffee at home. Pressure brewed coffee is the highest concentration style of coffee so it is often served diluted with milk, as in a latte, or water, like an americano.  
+
+
+
+
+[arabica-coffee]: https://en.wikipedia.org/wiki/Coffea_arabica
+[robusta-coffee]: https://en.wikipedia.org/wiki/Coffea_canephora
+[roast-levels]: https://www.drinktrade.com/blogs/education/roast-level-guide?_ab=0&_fd=0&_sc=1&srsltid=AfmBOorVy6Eo9lLtLEnWk1f8Nv-OJ5h0B3Th7cUmiVQvCJHL-9fAwF-n
+[regions-overview]: https://fathomcoffee.com/coffee-regions-guide/
+[brewing-methods]: https://counterculturecoffee.com/blogs/counter-culture-coffee/coffee-basics-brewing-methods?srsltid=AfmBOopopvxDzZHt1JyyufFfyxWO_j--UBXCF-dFI7l8QKhqSZBjkMwR
