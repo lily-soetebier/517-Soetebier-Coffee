@@ -34,7 +34,7 @@ While the coffee family originated in Africa, today beans are grown all around t
 
 
 ## The Brewing
-The method in which a cup of coffee is brewed 
+The method in which a cup of coffee is brewed can determine the flavor, but more importantly it impacts the final texture and mouth feel, AKA body, of the drink.
 ### Drip
 Drip brewing is what is known as a low concentration style of brewing. That is to say that the proportion of coffee to water is much smaller than other methods. When brewing drip coffee, fine ground beans are placed into a filter and hot water is slowly poured over the top of these grounds and allowed to "drip" thorugh them. 
 
