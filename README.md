@@ -23,9 +23,9 @@ While they are both memebers of the _Rubiacea_ family, there are two distinct st
 ### Roast Level
 ![A chart comparing green unroasted fresh coffee beans, and light, medium, and dark roast coffee beans][roast-level-chart]
 An major determining factor of coffee's final flavor is how long the beans are roasted for, or the [roast level][roast-levels]. While there is a range of times and temperatures at which coffee is roasted at most beans can be sorted into three categories: 
-1. light
-2. medium
-3. dark
+1. Light
+2. Medium
+3. Dark
 
 #### Light
 Light roasts are newly popularized outside of specialty coffee circles, thus they are often described as tasting "unusual" with strong fruity notes and ocassionally some grain or ceral like aftertastes. Despite it's softer flavors, light roast still packs a punch. In fact **light roasts contian more caffeine** than any other roast.
