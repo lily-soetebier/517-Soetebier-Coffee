@@ -10,13 +10,16 @@ When selecting which bean to buy from your local shop there are three elements t
 While they are both memebers of the _Rubiacea_ family, there are two distinct strains of coffee that are avaiable for purchase today: arabica and robusta.
 
 #### Arabica
+![A branch of an Arabica coffee tree with red and green ripening beans][arabica-pic]
 [_Coffea arabica_][arabica-coffee], or simply  Arabica as it is often labeled on the bag, is what most coffee drinkers are familiar with. This is because it is the **dominant cultivar** making up 60% of the world's coffee production. Arabica tends to have a sweet, floral taste with acidic notes of citrus fruits on the back end. Often times this acid can be percieved as bitterness by the drinker.  
 
 #### Robusta
+![A bunch of fully ripe, dark red robusta coffee beans][robusta-pic]
 [_Coffea canephora_][robusta-coffee], or Robusta, while less popuar is not less delicious. Despite its rarity in the current coffee market, Robusta coffee is much cheaper to produce that Arabica as it has a much higher yield rate. Robusta has been used traditionally for Italian style esspresso and Vietnamese drip coffee. Its flavor is full-bodied and earthy. Due to its pyrazine content, the final brew is considered to be much more bitter than it's counterpart. 
 
 
 ### Roast Level
+![A chart comparing green unroasted fresh coffee beans, and light, medium, and dark roast coffee beans][roast-level-chart]
 An major determining factor of coffee's final flavor is how long the beans are roasted for, or the [roast level][roast-levels]. While there is a range of times and temperatures at which coffee is roasted at most beans can be sorted into three categories: light, medium, and dark. 
 
 #### Light
@@ -30,12 +33,14 @@ Since they are cooked the longest, dark roasts have the least fruity flavors, te
 
 
 ### Region
+![A map of the world with south america, africa, and asisa highlighted to show where coffee is most frequently grown][regions-map]
 While the coffee family originated in Africa, today beans are grown all around the world, but do especially well in the southern hemisphere. The individual climates and soil conditions of these regions widen the range of flavors even more than the roast level. South American coffees tend to have more nutty, chocolately flavors to start, which are often brought out in the roasting process as discussed before. African coffees tend to be much more floral and bright. Asian coffees tend to have smokier notes of warm spices. For an overview of all the different regions, [click here][regions-overview].
 
 
 
 
 ## The Brewing
+![A chart with photos of different coffee brewers][brewing-methods-pic]
 The method in which a cup of coffee is brewed can determine the flavor, but more importantly it impacts the final texture and mouth feel, AKA body, of the drink. There are three main categories of brewing methods, but for more information on specific equiment [click here][brewing-methods].
 ### Drip
 Drip brewing is what is known as a low concentration style of brewing. That is to say that the proportion of coffee to water is much smaller than other methods. When brewing drip coffee, fine ground beans are placed into a filter and hot water is slowly poured over the top of these grounds and allowed to "drip" thorugh them. 
@@ -60,3 +65,10 @@ Pressure methods, as the name suggests, rely on high pressure to force water thr
 [roast-levels]: https://www.drinktrade.com/blogs/education/roast-level-guide?_ab=0&_fd=0&_sc=1&srsltid=AfmBOorVy6Eo9lLtLEnWk1f8Nv-OJ5h0B3Th7cUmiVQvCJHL-9fAwF-n
 [regions-overview]: https://fathomcoffee.com/coffee-regions-guide/
 [brewing-methods]: https://counterculturecoffee.com/blogs/counter-culture-coffee/coffee-basics-brewing-methods?srsltid=AfmBOopopvxDzZHt1JyyufFfyxWO_j--UBXCF-dFI7l8QKhqSZBjkMwR
+
+
+[arabica-pic]:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Starr_070308-5472_Coffea_arabica.jpg/330px-Starr_070308-5472_Coffea_arabica.jpg
+[robusta-pic]:https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ripe_Seeds_Coffee_Robusta_Coorg_Karnataka_India_Feb24_D72_25688.jpg/330px-Ripe_Seeds_Coffee_Robusta_Coorg_Karnataka_India_Feb24_D72_25688.jpg
+[roast-level-chart]:https://procaffeination.com/wp-content/uploads/2019/07/coffee-roasts-labeled.jpg
+[regions-map]:https://static1.squarespace.com/static/517382d7e4b0152c18ffe4a2/t/570edc6760b5e9ba285ac79e/1460591731838/
+[brewing-methods-pic]:https://cdn.shopify.com/s/files/1/0253/3729/9021/files/Blog-BrewMethods-guide_1024x1024.png?v=1650950263
