@@ -42,10 +42,6 @@ While the coffee family originated in Africa, today beans are grown all around t
 ## The Brewing
 ![A chart with photos of different coffee brewers][brewing-methods-pic]
 The method in which a cup of coffee is brewed can determine the flavor, but more importantly it impacts the final texture and mouth feel, AKA body, of the drink. There are three main categories of brewing methods, but for more information on specific equiment [click here][brewing-methods].
-### Drip
-Drip brewing is what is known as a low concentration style of brewing. That is to say that the proportion of coffee to water is much smaller than other methods. When brewing drip coffee, fine ground beans are placed into a filter and hot water is slowly poured over the top of these grounds and allowed to "drip" thorugh them. 
-
-This is the style of coffee produced by most at home coffee machines, and due to its efficient brewtimes is also utilized for large batch coffee. The final product is a light bodied, almost watery cup of coffee as the paper filters catch nearly all sediment. 
 
 ### Immersion 
 Immersion, or steeped coffee is made similarly to loose leaf teas where the grounds are submerged in the final amount of water, allowed to steep for a few minutes and then strained out of the final coffee. Immersion methods have a slightly higher ratio of coffee to water, but are still considered low concentration. 
@@ -53,6 +49,11 @@ Immersion, or steeped coffee is made similarly to loose leaf teas where the grou
 The most common brewer to use for immersion style coffee is a _French Press_. These brewers are composed of a carafe, typically made of glass or metal, with a plunger attached to the top for separating out the grounds. The resulting coffee has a heavy body and almost gritty texture as lots of sediment remains in the water.
 
 _Note: The french press is my preffered brewing method when drinking hot coffee for this exact reason. I think that the texture and body is extremely pleasant in a hot cup of coffee, but much less so in a cold coffee._
+
+### Drip 
+Drip, or percolation brewing is what is known as a low concentration style of brewing. That is to say that the proportion of coffee to water is much smaller than other methods. When brewing drip coffee, fine ground beans are placed into a filter and hot water is slowly poured over the top of these grounds and allowed to "drip" thorugh them. 
+
+This is the style of coffee produced by most at home coffee machines, and due to its efficient brewtimes is also utilized for large batch coffee. The final product is a light bodied, almost watery cup of coffee as the paper filters catch nearly all sediment. 
 
 ### Pressure
 Pressure methods, as the name suggests, rely on high pressure to force water through tightly packed coffee grounds. This is what is used to create espresso style coffee drinks. In addition to professional quality machines, mokka pots can be used to create this style of coffee at home. Pressure brewed coffee is the highest concentration style of coffee so it is often served diluted with milk, as in a latte, or water, like an americano.  
